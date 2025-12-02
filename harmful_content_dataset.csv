@@ -1,0 +1,2001 @@
+comment_id,user_id,category,comment_text
+1,174,harassment,Shut up already
+2,13,spam,Click this link to win
+3,336,safe,This is a nice post
+4,33,spam,Buy now!
+5,70,safe,This is a nice post
+6,305,misinformation,Government is hiding aliens
+7,136,safe,Thank you for sharing
+8,387,harassment,You're so dumb
+9,75,spam,Buy now!
+10,150,violent_speech,I will hurt you
+11,373,spam,Buy now!
+12,7,hate_speech,Go back to where you came from
+13,317,spam,Visit our site for free gifts
+14,5,safe,This is a nice post
+15,390,safe,Thank you for sharing
+16,10,hate_speech,You people are the worst
+17,161,harassment,Nobody likes you
+18,85,safe,Great work!
+19,23,hate_speech,Disgusting group
+20,271,spam,Buy now!
+21,15,spam,Buy now!
+22,386,spam,Buy now!
+23,294,misinformation,Breaking fake news
+24,74,safe,Thank you for sharing
+25,239,safe,This is a nice post
+26,47,spam,Click this link to win
+27,286,spam,Click this link to win
+28,263,spam,Visit our site for free gifts
+29,59,misinformation,Vaccines cause tracking
+30,136,harassment,You're so dumb
+31,235,harassment,Nobody likes you
+32,180,spam,Visit our site for free gifts
+33,275,misinformation,Vaccines cause tracking
+34,189,safe,This is a nice post
+35,134,spam,Visit our site for free gifts
+36,223,safe,This is a nice post
+37,232,misinformation,Vaccines cause tracking
+38,75,safe,Thank you for sharing
+39,366,harassment,You're so dumb
+40,205,spam,Visit our site for free gifts
+41,90,violent_speech,I will hurt you
+42,42,safe,Thank you for sharing
+43,209,misinformation,Breaking fake news
+44,118,safe,Great work!
+45,30,hate_speech,Disgusting group
+46,58,safe,Great work!
+47,246,harassment,Nobody likes you
+48,102,harassment,Nobody likes you
+49,137,safe,This is a nice post
+50,280,safe,Great work!
+51,381,harassment,Shut up already
+52,183,violent_speech,I will hurt you
+53,334,spam,Visit our site for free gifts
+54,15,safe,Thank you for sharing
+55,379,safe,This is a nice post
+56,31,safe,This is a nice post
+57,227,safe,Thank you for sharing
+58,273,harassment,Shut up already
+59,265,spam,Visit our site for free gifts
+60,283,violent_speech,I will hurt you
+61,3,spam,Click this link to win
+62,379,violent_speech,I will hurt you
+63,372,safe,Thank you for sharing
+64,177,safe,Thank you for sharing
+65,75,harassment,You're so dumb
+66,394,violent_speech,Someone should beat you
+67,128,violent_speech,I will hurt you
+68,341,safe,Thank you for sharing
+69,199,spam,Click this link to win
+70,173,safe,Great work!
+71,387,harassment,You're so dumb
+72,36,hate_speech,You people are the worst
+73,304,spam,Buy now!
+74,245,hate_speech,Disgusting group
+75,257,safe,Great work!
+76,362,misinformation,Government is hiding aliens
+77,121,safe,Great work!
+78,378,safe,Great work!
+79,232,safe,Thank you for sharing
+80,223,violent_speech,Someone should beat you
+81,150,harassment,You're so dumb
+82,58,spam,Click this link to win
+83,195,spam,Visit our site for free gifts
+84,172,violent_speech,I will hurt you
+85,82,safe,This is a nice post
+86,30,safe,This is a nice post
+87,63,spam,Visit our site for free gifts
+88,170,spam,Visit our site for free gifts
+89,331,safe,This is a nice post
+90,12,safe,Thank you for sharing
+91,26,violent_speech,I will hurt you
+92,376,spam,Buy now!
+93,103,harassment,Nobody likes you
+94,200,spam,Visit our site for free gifts
+95,235,safe,This is a nice post
+96,112,misinformation,Government is hiding aliens
+97,96,violent_speech,You deserve to be attacked
+98,90,safe,Thank you for sharing
+99,224,safe,Great work!
+100,55,hate_speech,Go back to where you came from
+101,260,hate_speech,Go back to where you came from
+102,243,hate_speech,You people are the worst
+103,285,harassment,Nobody likes you
+104,241,harassment,You're so dumb
+105,288,spam,Visit our site for free gifts
+106,177,safe,Thank you for sharing
+107,340,safe,Thank you for sharing
+108,210,hate_speech,You people are the worst
+109,84,spam,Buy now!
+110,261,safe,Great work!
+111,41,safe,This is a nice post
+112,71,safe,This is a nice post
+113,41,harassment,You're so dumb
+114,155,safe,This is a nice post
+115,325,safe,Great work!
+116,106,violent_speech,I will hurt you
+117,181,spam,Visit our site for free gifts
+118,232,misinformation,Vaccines cause tracking
+119,29,violent_speech,You deserve to be attacked
+120,373,spam,Visit our site for free gifts
+121,225,hate_speech,Disgusting group
+122,327,harassment,Nobody likes you
+123,361,spam,Visit our site for free gifts
+124,393,safe,Great work!
+125,190,spam,Buy now!
+126,391,safe,Thank you for sharing
+127,381,hate_speech,Disgusting group
+128,293,harassment,Shut up already
+129,286,misinformation,Vaccines cause tracking
+130,76,hate_speech,Go back to where you came from
+131,370,harassment,Nobody likes you
+132,235,safe,Great work!
+133,121,safe,Thank you for sharing
+134,31,misinformation,Government is hiding aliens
+135,351,harassment,Nobody likes you
+136,178,spam,Visit our site for free gifts
+137,352,spam,Visit our site for free gifts
+138,114,safe,Great work!
+139,350,spam,Click this link to win
+140,377,harassment,You're so dumb
+141,154,misinformation,Breaking fake news
+142,222,safe,Thank you for sharing
+143,247,hate_speech,Disgusting group
+144,266,hate_speech,Go back to where you came from
+145,40,violent_speech,You deserve to be attacked
+146,201,harassment,You're so dumb
+147,186,harassment,Nobody likes you
+148,43,spam,Buy now!
+149,315,safe,Great work!
+150,135,spam,Visit our site for free gifts
+151,365,safe,Thank you for sharing
+152,169,violent_speech,Someone should beat you
+153,127,harassment,Nobody likes you
+154,237,misinformation,Vaccines cause tracking
+155,151,harassment,Nobody likes you
+156,389,misinformation,Breaking fake news
+157,174,harassment,Shut up already
+158,328,harassment,Shut up already
+159,348,harassment,Nobody likes you
+160,224,safe,Thank you for sharing
+161,69,safe,Great work!
+162,114,violent_speech,Someone should beat you
+163,393,safe,Great work!
+164,360,hate_speech,Disgusting group
+165,211,spam,Buy now!
+166,148,spam,Visit our site for free gifts
+167,152,spam,Click this link to win
+168,321,safe,Thank you for sharing
+169,268,safe,This is a nice post
+170,260,safe,Thank you for sharing
+171,369,hate_speech,You people are the worst
+172,320,safe,Great work!
+173,16,safe,Great work!
+174,218,safe,Thank you for sharing
+175,209,violent_speech,You deserve to be attacked
+176,193,hate_speech,Go back to where you came from
+177,77,harassment,Nobody likes you
+178,298,harassment,Nobody likes you
+179,59,violent_speech,Someone should beat you
+180,16,harassment,Nobody likes you
+181,271,hate_speech,Go back to where you came from
+182,334,safe,Thank you for sharing
+183,110,violent_speech,I will hurt you
+184,124,misinformation,Vaccines cause tracking
+185,273,hate_speech,Go back to where you came from
+186,129,hate_speech,Go back to where you came from
+187,366,harassment,You're so dumb
+188,287,spam,Visit our site for free gifts
+189,253,hate_speech,Disgusting group
+190,203,safe,Great work!
+191,330,spam,Click this link to win
+192,37,violent_speech,I will hurt you
+193,108,safe,This is a nice post
+194,136,harassment,Nobody likes you
+195,219,spam,Buy now!
+196,60,violent_speech,I will hurt you
+197,123,spam,Buy now!
+198,240,safe,Great work!
+199,5,harassment,Nobody likes you
+200,274,spam,Visit our site for free gifts
+201,159,spam,Click this link to win
+202,49,misinformation,Government is hiding aliens
+203,159,safe,Great work!
+204,319,safe,Great work!
+205,327,spam,Visit our site for free gifts
+206,124,spam,Visit our site for free gifts
+207,11,hate_speech,Disgusting group
+208,304,hate_speech,Go back to where you came from
+209,297,hate_speech,Go back to where you came from
+210,388,safe,Great work!
+211,386,safe,Great work!
+212,353,hate_speech,Go back to where you came from
+213,180,violent_speech,You deserve to be attacked
+214,26,safe,Thank you for sharing
+215,137,misinformation,Government is hiding aliens
+216,142,hate_speech,Go back to where you came from
+217,242,spam,Visit our site for free gifts
+218,60,misinformation,Government is hiding aliens
+219,336,misinformation,Breaking fake news
+220,242,safe,This is a nice post
+221,304,harassment,Nobody likes you
+222,11,spam,Click this link to win
+223,94,spam,Buy now!
+224,297,misinformation,Breaking fake news
+225,341,hate_speech,You people are the worst
+226,64,harassment,You're so dumb
+227,296,harassment,You're so dumb
+228,222,safe,Great work!
+229,113,safe,Great work!
+230,180,harassment,Nobody likes you
+231,267,spam,Buy now!
+232,170,hate_speech,You people are the worst
+233,305,safe,Great work!
+234,43,harassment,Shut up already
+235,372,spam,Buy now!
+236,326,violent_speech,You deserve to be attacked
+237,65,violent_speech,You deserve to be attacked
+238,209,safe,Great work!
+239,70,harassment,Nobody likes you
+240,313,misinformation,Vaccines cause tracking
+241,28,harassment,Shut up already
+242,197,hate_speech,You people are the worst
+243,328,harassment,Nobody likes you
+244,110,safe,Great work!
+245,83,harassment,You're so dumb
+246,73,spam,Buy now!
+247,253,safe,This is a nice post
+248,302,safe,Great work!
+249,305,misinformation,Breaking fake news
+250,76,spam,Buy now!
+251,200,safe,Thank you for sharing
+252,114,hate_speech,Go back to where you came from
+253,3,violent_speech,I will hurt you
+254,57,spam,Click this link to win
+255,45,spam,Visit our site for free gifts
+256,13,spam,Buy now!
+257,184,spam,Buy now!
+258,260,spam,Buy now!
+259,346,safe,Thank you for sharing
+260,212,spam,Buy now!
+261,14,spam,Buy now!
+262,201,spam,Buy now!
+263,381,safe,Thank you for sharing
+264,8,harassment,Nobody likes you
+265,287,safe,This is a nice post
+266,117,hate_speech,You people are the worst
+267,211,safe,Great work!
+268,55,safe,Thank you for sharing
+269,199,harassment,Nobody likes you
+270,249,hate_speech,Go back to where you came from
+271,20,misinformation,Vaccines cause tracking
+272,72,harassment,Nobody likes you
+273,149,violent_speech,Someone should beat you
+274,118,spam,Buy now!
+275,297,violent_speech,Someone should beat you
+276,225,hate_speech,You people are the worst
+277,360,spam,Buy now!
+278,386,spam,Click this link to win
+279,115,hate_speech,Disgusting group
+280,278,misinformation,Government is hiding aliens
+281,201,safe,Thank you for sharing
+282,323,violent_speech,I will hurt you
+283,26,spam,Click this link to win
+284,306,safe,This is a nice post
+285,84,harassment,You're so dumb
+286,181,spam,Click this link to win
+287,80,spam,Visit our site for free gifts
+288,376,spam,Buy now!
+289,189,violent_speech,You deserve to be attacked
+290,357,violent_speech,I will hurt you
+291,229,hate_speech,Disgusting group
+292,342,safe,Thank you for sharing
+293,237,harassment,Nobody likes you
+294,276,safe,Thank you for sharing
+295,279,spam,Click this link to win
+296,395,safe,Great work!
+297,164,spam,Click this link to win
+298,363,spam,Visit our site for free gifts
+299,112,spam,Buy now!
+300,83,violent_speech,I will hurt you
+301,353,spam,Click this link to win
+302,80,spam,Buy now!
+303,105,harassment,Shut up already
+304,303,violent_speech,I will hurt you
+305,276,safe,Great work!
+306,302,violent_speech,You deserve to be attacked
+307,206,harassment,Shut up already
+308,76,harassment,You're so dumb
+309,348,safe,Great work!
+310,134,violent_speech,Someone should beat you
+311,391,safe,This is a nice post
+312,33,spam,Click this link to win
+313,201,harassment,Shut up already
+314,380,spam,Buy now!
+315,299,misinformation,Breaking fake news
+316,366,hate_speech,Disgusting group
+317,132,harassment,Shut up already
+318,290,safe,Great work!
+319,115,harassment,Nobody likes you
+320,263,spam,Click this link to win
+321,93,hate_speech,You people are the worst
+322,258,spam,Buy now!
+323,341,safe,This is a nice post
+324,199,hate_speech,You people are the worst
+325,386,violent_speech,I will hurt you
+326,271,spam,Visit our site for free gifts
+327,374,hate_speech,Disgusting group
+328,259,hate_speech,Disgusting group
+329,398,violent_speech,You deserve to be attacked
+330,345,violent_speech,I will hurt you
+331,285,harassment,Shut up already
+332,352,harassment,Shut up already
+333,113,harassment,Shut up already
+334,253,safe,This is a nice post
+335,242,hate_speech,Disgusting group
+336,40,harassment,Shut up already
+337,268,safe,Thank you for sharing
+338,150,safe,This is a nice post
+339,277,harassment,Nobody likes you
+340,30,harassment,Nobody likes you
+341,368,safe,Thank you for sharing
+342,14,spam,Visit our site for free gifts
+343,200,safe,Thank you for sharing
+344,52,misinformation,Vaccines cause tracking
+345,171,violent_speech,Someone should beat you
+346,30,spam,Buy now!
+347,310,violent_speech,I will hurt you
+348,344,hate_speech,You people are the worst
+349,140,spam,Click this link to win
+350,168,spam,Visit our site for free gifts
+351,34,safe,This is a nice post
+352,133,violent_speech,You deserve to be attacked
+353,227,safe,Thank you for sharing
+354,69,harassment,Nobody likes you
+355,174,safe,This is a nice post
+356,350,spam,Visit our site for free gifts
+357,30,safe,Thank you for sharing
+358,19,hate_speech,Disgusting group
+359,56,safe,This is a nice post
+360,254,harassment,You're so dumb
+361,141,misinformation,Government is hiding aliens
+362,276,harassment,Nobody likes you
+363,167,misinformation,Vaccines cause tracking
+364,301,harassment,Nobody likes you
+365,42,harassment,You're so dumb
+366,170,misinformation,Vaccines cause tracking
+367,60,hate_speech,You people are the worst
+368,294,hate_speech,Disgusting group
+369,376,safe,This is a nice post
+370,49,spam,Buy now!
+371,42,harassment,You're so dumb
+372,66,hate_speech,You people are the worst
+373,288,safe,Thank you for sharing
+374,393,spam,Click this link to win
+375,145,spam,Buy now!
+376,317,safe,Thank you for sharing
+377,253,spam,Click this link to win
+378,132,harassment,Nobody likes you
+379,243,misinformation,Breaking fake news
+380,89,safe,Thank you for sharing
+381,279,harassment,You're so dumb
+382,128,safe,Thank you for sharing
+383,291,hate_speech,Disgusting group
+384,389,spam,Click this link to win
+385,321,safe,Thank you for sharing
+386,319,harassment,Shut up already
+387,351,safe,This is a nice post
+388,330,violent_speech,You deserve to be attacked
+389,13,safe,Great work!
+390,382,spam,Visit our site for free gifts
+391,393,hate_speech,You people are the worst
+392,106,safe,Thank you for sharing
+393,258,violent_speech,I will hurt you
+394,391,safe,This is a nice post
+395,255,misinformation,Vaccines cause tracking
+396,162,safe,Great work!
+397,14,harassment,Nobody likes you
+398,92,spam,Buy now!
+399,333,misinformation,Government is hiding aliens
+400,144,harassment,Shut up already
+401,364,spam,Click this link to win
+402,321,harassment,Nobody likes you
+403,347,misinformation,Government is hiding aliens
+404,161,spam,Visit our site for free gifts
+405,157,harassment,Shut up already
+406,104,safe,Thank you for sharing
+407,335,safe,Great work!
+408,301,misinformation,Vaccines cause tracking
+409,3,safe,Thank you for sharing
+410,80,harassment,Nobody likes you
+411,147,safe,Thank you for sharing
+412,66,harassment,Shut up already
+413,316,harassment,You're so dumb
+414,85,safe,Thank you for sharing
+415,85,harassment,Shut up already
+416,88,safe,Great work!
+417,164,spam,Click this link to win
+418,267,misinformation,Vaccines cause tracking
+419,34,hate_speech,Go back to where you came from
+420,164,misinformation,Vaccines cause tracking
+421,216,hate_speech,Disgusting group
+422,2,spam,Buy now!
+423,369,misinformation,Breaking fake news
+424,374,harassment,Nobody likes you
+425,178,safe,Great work!
+426,376,hate_speech,Disgusting group
+427,95,safe,Great work!
+428,263,harassment,Shut up already
+429,29,spam,Visit our site for free gifts
+430,145,safe,This is a nice post
+431,148,safe,This is a nice post
+432,327,misinformation,Government is hiding aliens
+433,255,spam,Buy now!
+434,97,harassment,Nobody likes you
+435,152,hate_speech,You people are the worst
+436,89,safe,Great work!
+437,58,violent_speech,You deserve to be attacked
+438,209,harassment,You're so dumb
+439,99,misinformation,Vaccines cause tracking
+440,307,safe,Great work!
+441,246,hate_speech,Disgusting group
+442,192,spam,Buy now!
+443,45,harassment,Shut up already
+444,346,spam,Click this link to win
+445,109,safe,Great work!
+446,368,safe,Great work!
+447,297,safe,Thank you for sharing
+448,112,hate_speech,Go back to where you came from
+449,106,harassment,Shut up already
+450,95,safe,This is a nice post
+451,267,spam,Visit our site for free gifts
+452,103,safe,Thank you for sharing
+453,146,safe,Great work!
+454,379,violent_speech,Someone should beat you
+455,183,safe,This is a nice post
+456,124,harassment,You're so dumb
+457,143,hate_speech,Go back to where you came from
+458,393,safe,Great work!
+459,52,misinformation,Breaking fake news
+460,347,safe,This is a nice post
+461,75,safe,This is a nice post
+462,65,harassment,Nobody likes you
+463,97,harassment,Nobody likes you
+464,90,safe,Great work!
+465,334,safe,Thank you for sharing
+466,197,hate_speech,You people are the worst
+467,235,violent_speech,You deserve to be attacked
+468,170,safe,This is a nice post
+469,16,spam,Visit our site for free gifts
+470,269,spam,Buy now!
+471,153,spam,Visit our site for free gifts
+472,371,spam,Visit our site for free gifts
+473,184,spam,Buy now!
+474,138,safe,This is a nice post
+475,151,spam,Buy now!
+476,331,spam,Buy now!
+477,392,hate_speech,Disgusting group
+478,226,violent_speech,You deserve to be attacked
+479,188,harassment,You're so dumb
+480,157,safe,Thank you for sharing
+481,220,spam,Click this link to win
+482,125,hate_speech,Go back to where you came from
+483,55,hate_speech,You people are the worst
+484,11,safe,Great work!
+485,99,misinformation,Government is hiding aliens
+486,194,harassment,You're so dumb
+487,218,spam,Click this link to win
+488,317,safe,Great work!
+489,348,violent_speech,I will hurt you
+490,181,safe,Thank you for sharing
+491,334,hate_speech,Disgusting group
+492,170,safe,Great work!
+493,371,violent_speech,I will hurt you
+494,370,safe,This is a nice post
+495,227,harassment,Nobody likes you
+496,333,safe,Thank you for sharing
+497,325,harassment,Shut up already
+498,232,hate_speech,Go back to where you came from
+499,163,harassment,You're so dumb
+500,257,violent_speech,You deserve to be attacked
+501,379,safe,Thank you for sharing
+502,130,harassment,Nobody likes you
+503,179,safe,This is a nice post
+504,136,hate_speech,You people are the worst
+505,110,spam,Buy now!
+506,147,harassment,Nobody likes you
+507,284,safe,This is a nice post
+508,334,safe,Great work!
+509,360,violent_speech,You deserve to be attacked
+510,237,violent_speech,You deserve to be attacked
+511,12,violent_speech,I will hurt you
+512,375,harassment,Nobody likes you
+513,183,harassment,Shut up already
+514,117,hate_speech,You people are the worst
+515,24,hate_speech,Disgusting group
+516,249,hate_speech,Go back to where you came from
+517,48,hate_speech,Disgusting group
+518,210,misinformation,Government is hiding aliens
+519,76,hate_speech,You people are the worst
+520,73,safe,This is a nice post
+521,169,spam,Click this link to win
+522,389,safe,Great work!
+523,217,harassment,Shut up already
+524,172,safe,Thank you for sharing
+525,301,spam,Buy now!
+526,386,hate_speech,Disgusting group
+527,298,safe,Thank you for sharing
+528,226,spam,Buy now!
+529,41,harassment,Shut up already
+530,202,safe,Thank you for sharing
+531,273,hate_speech,You people are the worst
+532,46,misinformation,Breaking fake news
+533,173,harassment,Nobody likes you
+534,241,harassment,Nobody likes you
+535,27,safe,Thank you for sharing
+536,121,safe,Thank you for sharing
+537,45,hate_speech,Go back to where you came from
+538,150,harassment,Shut up already
+539,58,spam,Visit our site for free gifts
+540,351,safe,Thank you for sharing
+541,298,harassment,You're so dumb
+542,206,hate_speech,You people are the worst
+543,323,spam,Click this link to win
+544,104,harassment,You're so dumb
+545,2,safe,Great work!
+546,225,violent_speech,Someone should beat you
+547,394,safe,Thank you for sharing
+548,278,hate_speech,Disgusting group
+549,162,violent_speech,You deserve to be attacked
+550,373,spam,Visit our site for free gifts
+551,116,harassment,You're so dumb
+552,208,harassment,Nobody likes you
+553,120,misinformation,Government is hiding aliens
+554,296,safe,Thank you for sharing
+555,230,safe,Great work!
+556,289,spam,Click this link to win
+557,373,safe,This is a nice post
+558,169,hate_speech,Disgusting group
+559,57,misinformation,Vaccines cause tracking
+560,39,misinformation,Breaking fake news
+561,244,safe,Thank you for sharing
+562,43,hate_speech,Go back to where you came from
+563,370,spam,Click this link to win
+564,340,hate_speech,Disgusting group
+565,190,misinformation,Government is hiding aliens
+566,210,violent_speech,I will hurt you
+567,69,violent_speech,Someone should beat you
+568,151,violent_speech,You deserve to be attacked
+569,385,harassment,You're so dumb
+570,113,spam,Visit our site for free gifts
+571,295,spam,Visit our site for free gifts
+572,125,misinformation,Vaccines cause tracking
+573,179,safe,Thank you for sharing
+574,18,harassment,You're so dumb
+575,314,harassment,Nobody likes you
+576,127,safe,Thank you for sharing
+577,116,safe,Thank you for sharing
+578,95,spam,Click this link to win
+579,102,harassment,You're so dumb
+580,235,violent_speech,Someone should beat you
+581,14,spam,Buy now!
+582,211,harassment,Nobody likes you
+583,326,safe,This is a nice post
+584,98,safe,Great work!
+585,195,harassment,Nobody likes you
+586,238,safe,Great work!
+587,49,safe,Great work!
+588,138,safe,Thank you for sharing
+589,200,misinformation,Vaccines cause tracking
+590,41,violent_speech,You deserve to be attacked
+591,265,violent_speech,I will hurt you
+592,364,safe,Great work!
+593,253,misinformation,Vaccines cause tracking
+594,169,safe,This is a nice post
+595,35,safe,This is a nice post
+596,24,safe,Great work!
+597,367,misinformation,Government is hiding aliens
+598,267,spam,Buy now!
+599,111,violent_speech,You deserve to be attacked
+600,100,violent_speech,You deserve to be attacked
+601,209,misinformation,Vaccines cause tracking
+602,46,misinformation,Breaking fake news
+603,206,misinformation,Breaking fake news
+604,89,hate_speech,Disgusting group
+605,348,violent_speech,I will hurt you
+606,345,harassment,Nobody likes you
+607,384,misinformation,Breaking fake news
+608,363,hate_speech,Go back to where you came from
+609,76,hate_speech,Disgusting group
+610,219,safe,Thank you for sharing
+611,96,violent_speech,You deserve to be attacked
+612,56,harassment,You're so dumb
+613,184,safe,Thank you for sharing
+614,207,harassment,Shut up already
+615,384,harassment,Shut up already
+616,229,violent_speech,Someone should beat you
+617,214,violent_speech,You deserve to be attacked
+618,166,safe,This is a nice post
+619,133,safe,Great work!
+620,276,spam,Visit our site for free gifts
+621,39,spam,Buy now!
+622,91,hate_speech,Go back to where you came from
+623,366,spam,Buy now!
+624,246,safe,Great work!
+625,59,spam,Click this link to win
+626,152,spam,Visit our site for free gifts
+627,110,hate_speech,Disgusting group
+628,301,harassment,Nobody likes you
+629,360,harassment,Nobody likes you
+630,192,harassment,You're so dumb
+631,296,safe,Thank you for sharing
+632,204,safe,Thank you for sharing
+633,277,spam,Visit our site for free gifts
+634,217,spam,Click this link to win
+635,224,spam,Buy now!
+636,312,safe,This is a nice post
+637,200,violent_speech,I will hurt you
+638,39,hate_speech,You people are the worst
+639,233,spam,Click this link to win
+640,399,safe,This is a nice post
+641,149,misinformation,Government is hiding aliens
+642,109,safe,This is a nice post
+643,380,hate_speech,Disgusting group
+644,309,violent_speech,Someone should beat you
+645,261,violent_speech,You deserve to be attacked
+646,163,hate_speech,You people are the worst
+647,351,safe,This is a nice post
+648,289,safe,This is a nice post
+649,217,spam,Buy now!
+650,326,harassment,Nobody likes you
+651,290,hate_speech,Go back to where you came from
+652,27,safe,This is a nice post
+653,120,safe,Thank you for sharing
+654,67,harassment,You're so dumb
+655,14,misinformation,Breaking fake news
+656,378,harassment,You're so dumb
+657,38,spam,Visit our site for free gifts
+658,92,spam,Buy now!
+659,59,hate_speech,Disgusting group
+660,63,safe,Thank you for sharing
+661,328,safe,Great work!
+662,159,misinformation,Breaking fake news
+663,331,harassment,Shut up already
+664,120,safe,Great work!
+665,177,hate_speech,Disgusting group
+666,281,spam,Visit our site for free gifts
+667,340,safe,Great work!
+668,326,hate_speech,You people are the worst
+669,315,harassment,You're so dumb
+670,338,spam,Visit our site for free gifts
+671,112,violent_speech,Someone should beat you
+672,267,harassment,Nobody likes you
+673,39,hate_speech,Disgusting group
+674,208,harassment,You're so dumb
+675,245,misinformation,Government is hiding aliens
+676,90,violent_speech,You deserve to be attacked
+677,348,safe,Great work!
+678,76,safe,This is a nice post
+679,5,hate_speech,Go back to where you came from
+680,149,hate_speech,Disgusting group
+681,181,safe,Thank you for sharing
+682,264,harassment,Shut up already
+683,193,violent_speech,I will hurt you
+684,58,safe,This is a nice post
+685,231,misinformation,Breaking fake news
+686,13,hate_speech,Disgusting group
+687,140,spam,Click this link to win
+688,123,spam,Buy now!
+689,377,safe,Thank you for sharing
+690,298,safe,Thank you for sharing
+691,122,violent_speech,I will hurt you
+692,49,hate_speech,Go back to where you came from
+693,185,harassment,You're so dumb
+694,244,violent_speech,You deserve to be attacked
+695,31,spam,Click this link to win
+696,83,harassment,Nobody likes you
+697,105,safe,Great work!
+698,144,spam,Buy now!
+699,59,harassment,You're so dumb
+700,3,spam,Visit our site for free gifts
+701,178,safe,Thank you for sharing
+702,396,spam,Visit our site for free gifts
+703,137,hate_speech,Disgusting group
+704,345,harassment,Shut up already
+705,363,misinformation,Vaccines cause tracking
+706,53,harassment,You're so dumb
+707,108,safe,Thank you for sharing
+708,332,harassment,Nobody likes you
+709,205,hate_speech,You people are the worst
+710,250,safe,This is a nice post
+711,37,harassment,Nobody likes you
+712,378,violent_speech,Someone should beat you
+713,247,violent_speech,Someone should beat you
+714,389,safe,Thank you for sharing
+715,208,spam,Click this link to win
+716,62,spam,Buy now!
+717,15,safe,Great work!
+718,158,harassment,You're so dumb
+719,386,spam,Buy now!
+720,76,safe,Great work!
+721,89,spam,Visit our site for free gifts
+722,384,harassment,Shut up already
+723,254,harassment,You're so dumb
+724,193,harassment,You're so dumb
+725,154,safe,This is a nice post
+726,223,harassment,You're so dumb
+727,4,safe,This is a nice post
+728,55,misinformation,Government is hiding aliens
+729,104,safe,This is a nice post
+730,158,safe,Great work!
+731,303,safe,This is a nice post
+732,316,misinformation,Breaking fake news
+733,309,violent_speech,You deserve to be attacked
+734,231,hate_speech,Disgusting group
+735,57,safe,Great work!
+736,164,violent_speech,You deserve to be attacked
+737,331,harassment,Shut up already
+738,176,harassment,Shut up already
+739,361,harassment,Shut up already
+740,17,violent_speech,You deserve to be attacked
+741,381,safe,This is a nice post
+742,113,harassment,You're so dumb
+743,217,spam,Buy now!
+744,85,hate_speech,Disgusting group
+745,388,safe,Great work!
+746,142,safe,Thank you for sharing
+747,222,spam,Visit our site for free gifts
+748,394,spam,Click this link to win
+749,273,safe,Thank you for sharing
+750,284,safe,Thank you for sharing
+751,352,violent_speech,I will hurt you
+752,370,harassment,Shut up already
+753,203,harassment,Shut up already
+754,145,hate_speech,Go back to where you came from
+755,14,safe,This is a nice post
+756,313,harassment,You're so dumb
+757,10,safe,Thank you for sharing
+758,126,safe,This is a nice post
+759,333,violent_speech,You deserve to be attacked
+760,292,violent_speech,I will hurt you
+761,352,spam,Click this link to win
+762,378,misinformation,Breaking fake news
+763,130,safe,Great work!
+764,25,misinformation,Government is hiding aliens
+765,398,violent_speech,Someone should beat you
+766,289,safe,This is a nice post
+767,231,safe,This is a nice post
+768,85,spam,Click this link to win
+769,318,safe,Thank you for sharing
+770,213,violent_speech,You deserve to be attacked
+771,57,violent_speech,Someone should beat you
+772,257,harassment,Nobody likes you
+773,398,spam,Buy now!
+774,146,spam,Buy now!
+775,250,violent_speech,You deserve to be attacked
+776,204,spam,Click this link to win
+777,26,safe,This is a nice post
+778,363,safe,Great work!
+779,260,spam,Visit our site for free gifts
+780,296,safe,Thank you for sharing
+781,66,safe,This is a nice post
+782,22,spam,Click this link to win
+783,35,spam,Click this link to win
+784,352,harassment,Shut up already
+785,62,harassment,Shut up already
+786,137,spam,Click this link to win
+787,46,harassment,Nobody likes you
+788,238,spam,Buy now!
+789,369,safe,Thank you for sharing
+790,120,spam,Click this link to win
+791,284,harassment,Nobody likes you
+792,97,safe,Great work!
+793,284,violent_speech,Someone should beat you
+794,210,violent_speech,Someone should beat you
+795,240,spam,Buy now!
+796,307,spam,Visit our site for free gifts
+797,390,hate_speech,Disgusting group
+798,124,violent_speech,You deserve to be attacked
+799,51,safe,This is a nice post
+800,227,hate_speech,Go back to where you came from
+801,243,safe,Thank you for sharing
+802,190,violent_speech,You deserve to be attacked
+803,43,safe,This is a nice post
+804,222,spam,Click this link to win
+805,100,harassment,Nobody likes you
+806,136,harassment,You're so dumb
+807,350,violent_speech,Someone should beat you
+808,338,safe,Thank you for sharing
+809,333,hate_speech,Disgusting group
+810,210,safe,Thank you for sharing
+811,111,safe,Thank you for sharing
+812,294,hate_speech,Disgusting group
+813,172,harassment,Shut up already
+814,59,safe,Great work!
+815,284,safe,Thank you for sharing
+816,70,spam,Click this link to win
+817,99,safe,This is a nice post
+818,346,safe,Great work!
+819,18,violent_speech,I will hurt you
+820,165,misinformation,Government is hiding aliens
+821,367,violent_speech,I will hurt you
+822,384,spam,Buy now!
+823,230,spam,Visit our site for free gifts
+824,364,hate_speech,You people are the worst
+825,273,hate_speech,You people are the worst
+826,304,safe,Thank you for sharing
+827,164,safe,Thank you for sharing
+828,355,misinformation,Vaccines cause tracking
+829,193,violent_speech,I will hurt you
+830,28,misinformation,Vaccines cause tracking
+831,9,safe,Thank you for sharing
+832,102,spam,Visit our site for free gifts
+833,369,harassment,Nobody likes you
+834,249,misinformation,Breaking fake news
+835,392,spam,Buy now!
+836,26,safe,Thank you for sharing
+837,51,violent_speech,You deserve to be attacked
+838,309,violent_speech,Someone should beat you
+839,71,safe,Great work!
+840,261,harassment,You're so dumb
+841,314,hate_speech,Disgusting group
+842,336,safe,Thank you for sharing
+843,281,spam,Click this link to win
+844,59,hate_speech,You people are the worst
+845,48,safe,Thank you for sharing
+846,7,hate_speech,Go back to where you came from
+847,237,misinformation,Government is hiding aliens
+848,140,safe,Thank you for sharing
+849,366,misinformation,Government is hiding aliens
+850,296,hate_speech,Go back to where you came from
+851,190,harassment,You're so dumb
+852,141,harassment,Nobody likes you
+853,283,spam,Click this link to win
+854,270,misinformation,Vaccines cause tracking
+855,18,harassment,You're so dumb
+856,274,spam,Click this link to win
+857,53,safe,Thank you for sharing
+858,21,safe,This is a nice post
+859,8,safe,Great work!
+860,286,hate_speech,You people are the worst
+861,120,harassment,Shut up already
+862,102,spam,Click this link to win
+863,2,harassment,You're so dumb
+864,183,harassment,Shut up already
+865,320,spam,Visit our site for free gifts
+866,180,spam,Visit our site for free gifts
+867,210,safe,This is a nice post
+868,244,spam,Visit our site for free gifts
+869,296,hate_speech,You people are the worst
+870,174,safe,This is a nice post
+871,76,harassment,You're so dumb
+872,94,spam,Buy now!
+873,50,violent_speech,Someone should beat you
+874,223,safe,Great work!
+875,347,harassment,You're so dumb
+876,36,spam,Visit our site for free gifts
+877,293,spam,Buy now!
+878,33,harassment,You're so dumb
+879,264,hate_speech,Disgusting group
+880,302,safe,This is a nice post
+881,361,spam,Click this link to win
+882,283,safe,This is a nice post
+883,85,harassment,Shut up already
+884,94,spam,Click this link to win
+885,234,hate_speech,You people are the worst
+886,2,violent_speech,Someone should beat you
+887,259,spam,Click this link to win
+888,206,spam,Visit our site for free gifts
+889,151,misinformation,Vaccines cause tracking
+890,301,hate_speech,Disgusting group
+891,12,harassment,Shut up already
+892,396,spam,Buy now!
+893,371,safe,This is a nice post
+894,133,spam,Click this link to win
+895,168,hate_speech,You people are the worst
+896,251,spam,Visit our site for free gifts
+897,121,safe,This is a nice post
+898,179,harassment,You're so dumb
+899,350,misinformation,Government is hiding aliens
+900,151,harassment,Shut up already
+901,182,violent_speech,I will hurt you
+902,307,safe,Thank you for sharing
+903,52,safe,This is a nice post
+904,2,safe,Thank you for sharing
+905,287,safe,Thank you for sharing
+906,136,harassment,Nobody likes you
+907,74,misinformation,Vaccines cause tracking
+908,22,hate_speech,Go back to where you came from
+909,80,safe,Thank you for sharing
+910,37,misinformation,Government is hiding aliens
+911,47,misinformation,Vaccines cause tracking
+912,100,safe,Thank you for sharing
+913,284,harassment,You're so dumb
+914,190,misinformation,Breaking fake news
+915,268,spam,Visit our site for free gifts
+916,306,safe,Thank you for sharing
+917,2,spam,Buy now!
+918,229,safe,Thank you for sharing
+919,353,safe,Great work!
+920,232,violent_speech,I will hurt you
+921,25,safe,Great work!
+922,115,safe,This is a nice post
+923,146,safe,This is a nice post
+924,303,safe,Thank you for sharing
+925,109,misinformation,Government is hiding aliens
+926,6,spam,Click this link to win
+927,17,misinformation,Government is hiding aliens
+928,134,violent_speech,Someone should beat you
+929,281,harassment,You're so dumb
+930,281,safe,Great work!
+931,80,safe,Thank you for sharing
+932,118,safe,Thank you for sharing
+933,364,safe,This is a nice post
+934,5,harassment,Shut up already
+935,363,misinformation,Vaccines cause tracking
+936,322,spam,Visit our site for free gifts
+937,282,hate_speech,You people are the worst
+938,223,harassment,You're so dumb
+939,22,spam,Click this link to win
+940,45,hate_speech,Disgusting group
+941,155,harassment,Nobody likes you
+942,102,hate_speech,Go back to where you came from
+943,222,harassment,You're so dumb
+944,306,spam,Visit our site for free gifts
+945,74,hate_speech,You people are the worst
+946,327,spam,Visit our site for free gifts
+947,110,safe,Great work!
+948,236,harassment,Nobody likes you
+949,141,misinformation,Breaking fake news
+950,79,misinformation,Vaccines cause tracking
+951,250,hate_speech,You people are the worst
+952,323,harassment,Nobody likes you
+953,381,harassment,You're so dumb
+954,142,harassment,Shut up already
+955,338,safe,Great work!
+956,341,spam,Click this link to win
+957,90,harassment,You're so dumb
+958,29,harassment,Nobody likes you
+959,351,safe,Great work!
+960,226,safe,This is a nice post
+961,234,harassment,You're so dumb
+962,182,safe,Great work!
+963,261,harassment,Nobody likes you
+964,265,violent_speech,You deserve to be attacked
+965,62,safe,Thank you for sharing
+966,153,safe,Thank you for sharing
+967,307,safe,Thank you for sharing
+968,206,violent_speech,Someone should beat you
+969,341,harassment,Nobody likes you
+970,196,safe,Great work!
+971,73,hate_speech,You people are the worst
+972,316,violent_speech,Someone should beat you
+973,134,safe,Great work!
+974,352,misinformation,Government is hiding aliens
+975,48,safe,This is a nice post
+976,177,harassment,Shut up already
+977,180,spam,Buy now!
+978,75,hate_speech,Go back to where you came from
+979,65,spam,Click this link to win
+980,224,harassment,Nobody likes you
+981,12,harassment,Nobody likes you
+982,245,spam,Click this link to win
+983,212,safe,Thank you for sharing
+984,246,harassment,Nobody likes you
+985,217,safe,Great work!
+986,144,safe,Thank you for sharing
+987,14,safe,Great work!
+988,291,harassment,You're so dumb
+989,17,safe,This is a nice post
+990,360,harassment,Nobody likes you
+991,160,misinformation,Government is hiding aliens
+992,385,safe,This is a nice post
+993,195,safe,This is a nice post
+994,142,spam,Buy now!
+995,241,misinformation,Government is hiding aliens
+996,289,safe,This is a nice post
+997,7,misinformation,Breaking fake news
+998,136,violent_speech,Someone should beat you
+999,342,hate_speech,Disgusting group
+1000,93,safe,Thank you for sharing
+1001,302,harassment,Shut up already
+1002,340,spam,Visit our site for free gifts
+1003,28,violent_speech,You deserve to be attacked
+1004,120,safe,Thank you for sharing
+1005,56,misinformation,Breaking fake news
+1006,374,harassment,Shut up already
+1007,290,safe,Thank you for sharing
+1008,279,harassment,You're so dumb
+1009,356,safe,Thank you for sharing
+1010,271,harassment,You're so dumb
+1011,272,safe,This is a nice post
+1012,181,harassment,Nobody likes you
+1013,101,safe,Great work!
+1014,294,spam,Buy now!
+1015,363,misinformation,Breaking fake news
+1016,212,hate_speech,You people are the worst
+1017,59,violent_speech,Someone should beat you
+1018,54,violent_speech,You deserve to be attacked
+1019,333,safe,This is a nice post
+1020,45,hate_speech,Disgusting group
+1021,242,harassment,You're so dumb
+1022,112,safe,Thank you for sharing
+1023,210,harassment,You're so dumb
+1024,183,misinformation,Vaccines cause tracking
+1025,54,harassment,You're so dumb
+1026,336,hate_speech,Disgusting group
+1027,348,misinformation,Vaccines cause tracking
+1028,297,safe,Great work!
+1029,237,spam,Click this link to win
+1030,124,misinformation,Government is hiding aliens
+1031,32,safe,Thank you for sharing
+1032,71,safe,This is a nice post
+1033,134,spam,Visit our site for free gifts
+1034,135,safe,Great work!
+1035,112,harassment,Shut up already
+1036,178,misinformation,Government is hiding aliens
+1037,321,harassment,Nobody likes you
+1038,236,violent_speech,Someone should beat you
+1039,313,safe,This is a nice post
+1040,373,hate_speech,Go back to where you came from
+1041,325,spam,Visit our site for free gifts
+1042,168,spam,Click this link to win
+1043,153,safe,This is a nice post
+1044,193,harassment,You're so dumb
+1045,369,hate_speech,Go back to where you came from
+1046,179,harassment,Nobody likes you
+1047,42,spam,Click this link to win
+1048,357,harassment,You're so dumb
+1049,96,misinformation,Government is hiding aliens
+1050,269,harassment,Shut up already
+1051,324,violent_speech,I will hurt you
+1052,69,spam,Click this link to win
+1053,251,violent_speech,You deserve to be attacked
+1054,320,spam,Visit our site for free gifts
+1055,27,violent_speech,I will hurt you
+1056,18,safe,Great work!
+1057,317,spam,Visit our site for free gifts
+1058,100,spam,Visit our site for free gifts
+1059,253,misinformation,Breaking fake news
+1060,201,hate_speech,You people are the worst
+1061,258,spam,Click this link to win
+1062,95,hate_speech,Disgusting group
+1063,176,safe,Great work!
+1064,311,spam,Buy now!
+1065,151,safe,Great work!
+1066,371,safe,Great work!
+1067,57,violent_speech,I will hurt you
+1068,48,misinformation,Government is hiding aliens
+1069,346,misinformation,Government is hiding aliens
+1070,386,spam,Buy now!
+1071,43,safe,Great work!
+1072,212,misinformation,Breaking fake news
+1073,40,spam,Buy now!
+1074,179,hate_speech,Disgusting group
+1075,192,safe,Thank you for sharing
+1076,342,safe,This is a nice post
+1077,228,hate_speech,Disgusting group
+1078,160,hate_speech,You people are the worst
+1079,220,safe,Great work!
+1080,16,spam,Click this link to win
+1081,237,spam,Visit our site for free gifts
+1082,268,hate_speech,You people are the worst
+1083,147,misinformation,Vaccines cause tracking
+1084,32,harassment,Shut up already
+1085,339,spam,Visit our site for free gifts
+1086,367,spam,Visit our site for free gifts
+1087,113,safe,Thank you for sharing
+1088,6,spam,Visit our site for free gifts
+1089,41,hate_speech,Disgusting group
+1090,28,safe,Thank you for sharing
+1091,112,safe,Thank you for sharing
+1092,57,misinformation,Breaking fake news
+1093,18,safe,Thank you for sharing
+1094,228,safe,Thank you for sharing
+1095,305,harassment,Shut up already
+1096,13,spam,Visit our site for free gifts
+1097,130,harassment,Shut up already
+1098,275,safe,Great work!
+1099,367,harassment,You're so dumb
+1100,163,misinformation,Vaccines cause tracking
+1101,188,hate_speech,Go back to where you came from
+1102,227,harassment,Nobody likes you
+1103,172,harassment,Shut up already
+1104,387,safe,Thank you for sharing
+1105,336,harassment,Nobody likes you
+1106,13,safe,Great work!
+1107,133,spam,Visit our site for free gifts
+1108,47,harassment,Shut up already
+1109,277,hate_speech,Go back to where you came from
+1110,262,safe,Great work!
+1111,46,violent_speech,Someone should beat you
+1112,86,harassment,Shut up already
+1113,267,misinformation,Vaccines cause tracking
+1114,55,violent_speech,You deserve to be attacked
+1115,29,safe,Great work!
+1116,233,harassment,You're so dumb
+1117,112,harassment,You're so dumb
+1118,158,harassment,Shut up already
+1119,189,violent_speech,I will hurt you
+1120,35,safe,Thank you for sharing
+1121,386,harassment,Shut up already
+1122,366,safe,Great work!
+1123,88,spam,Visit our site for free gifts
+1124,184,misinformation,Vaccines cause tracking
+1125,118,hate_speech,Go back to where you came from
+1126,14,safe,Thank you for sharing
+1127,284,safe,Great work!
+1128,81,safe,Thank you for sharing
+1129,80,hate_speech,You people are the worst
+1130,344,spam,Buy now!
+1131,202,hate_speech,Go back to where you came from
+1132,293,spam,Visit our site for free gifts
+1133,171,harassment,Nobody likes you
+1134,385,spam,Visit our site for free gifts
+1135,234,violent_speech,I will hurt you
+1136,251,hate_speech,Disgusting group
+1137,396,safe,Thank you for sharing
+1138,360,safe,This is a nice post
+1139,337,spam,Buy now!
+1140,145,hate_speech,Go back to where you came from
+1141,271,harassment,Nobody likes you
+1142,22,misinformation,Vaccines cause tracking
+1143,216,safe,Great work!
+1144,140,safe,This is a nice post
+1145,179,harassment,Shut up already
+1146,390,hate_speech,You people are the worst
+1147,178,safe,Great work!
+1148,218,safe,Thank you for sharing
+1149,186,harassment,Shut up already
+1150,144,spam,Buy now!
+1151,18,safe,Thank you for sharing
+1152,197,harassment,You're so dumb
+1153,334,spam,Buy now!
+1154,180,safe,This is a nice post
+1155,222,hate_speech,You people are the worst
+1156,98,misinformation,Vaccines cause tracking
+1157,34,hate_speech,Disgusting group
+1158,336,harassment,Nobody likes you
+1159,103,harassment,Nobody likes you
+1160,135,misinformation,Breaking fake news
+1161,290,harassment,Shut up already
+1162,229,safe,Great work!
+1163,50,misinformation,Breaking fake news
+1164,166,violent_speech,Someone should beat you
+1165,22,spam,Visit our site for free gifts
+1166,180,spam,Click this link to win
+1167,12,safe,Thank you for sharing
+1168,306,harassment,Shut up already
+1169,217,safe,This is a nice post
+1170,361,harassment,You're so dumb
+1171,381,safe,Great work!
+1172,222,harassment,Shut up already
+1173,279,violent_speech,I will hurt you
+1174,293,spam,Click this link to win
+1175,113,harassment,You're so dumb
+1176,277,misinformation,Vaccines cause tracking
+1177,296,hate_speech,You people are the worst
+1178,145,harassment,Shut up already
+1179,84,harassment,Nobody likes you
+1180,232,safe,This is a nice post
+1181,142,safe,Thank you for sharing
+1182,205,harassment,Nobody likes you
+1183,139,safe,Thank you for sharing
+1184,51,hate_speech,Go back to where you came from
+1185,133,harassment,Shut up already
+1186,196,hate_speech,Disgusting group
+1187,59,hate_speech,Go back to where you came from
+1188,224,safe,This is a nice post
+1189,220,harassment,You're so dumb
+1190,51,harassment,Shut up already
+1191,398,harassment,Shut up already
+1192,349,hate_speech,Go back to where you came from
+1193,95,safe,Thank you for sharing
+1194,322,spam,Buy now!
+1195,203,harassment,You're so dumb
+1196,37,spam,Click this link to win
+1197,197,safe,Thank you for sharing
+1198,253,harassment,Shut up already
+1199,134,misinformation,Vaccines cause tracking
+1200,107,safe,This is a nice post
+1201,296,safe,Great work!
+1202,351,spam,Click this link to win
+1203,103,safe,This is a nice post
+1204,212,safe,Thank you for sharing
+1205,331,safe,Thank you for sharing
+1206,128,spam,Click this link to win
+1207,315,spam,Buy now!
+1208,234,spam,Buy now!
+1209,95,safe,This is a nice post
+1210,264,safe,This is a nice post
+1211,137,spam,Click this link to win
+1212,388,safe,Great work!
+1213,63,safe,Great work!
+1214,256,harassment,Nobody likes you
+1215,30,hate_speech,Go back to where you came from
+1216,38,harassment,Shut up already
+1217,37,hate_speech,You people are the worst
+1218,319,safe,This is a nice post
+1219,260,harassment,Nobody likes you
+1220,19,spam,Visit our site for free gifts
+1221,12,violent_speech,You deserve to be attacked
+1222,75,misinformation,Government is hiding aliens
+1223,249,harassment,Shut up already
+1224,246,safe,Great work!
+1225,30,hate_speech,Go back to where you came from
+1226,4,harassment,Nobody likes you
+1227,31,hate_speech,Go back to where you came from
+1228,373,hate_speech,You people are the worst
+1229,51,safe,Great work!
+1230,330,spam,Buy now!
+1231,59,spam,Click this link to win
+1232,308,safe,Thank you for sharing
+1233,336,misinformation,Government is hiding aliens
+1234,21,spam,Click this link to win
+1235,128,safe,This is a nice post
+1236,31,spam,Visit our site for free gifts
+1237,153,safe,Great work!
+1238,348,hate_speech,Go back to where you came from
+1239,81,safe,Great work!
+1240,53,spam,Buy now!
+1241,356,spam,Buy now!
+1242,6,harassment,Shut up already
+1243,274,safe,This is a nice post
+1244,160,spam,Click this link to win
+1245,244,safe,This is a nice post
+1246,145,spam,Click this link to win
+1247,38,safe,This is a nice post
+1248,337,safe,Thank you for sharing
+1249,55,violent_speech,You deserve to be attacked
+1250,384,hate_speech,Go back to where you came from
+1251,222,safe,Thank you for sharing
+1252,94,harassment,Shut up already
+1253,79,spam,Visit our site for free gifts
+1254,306,spam,Click this link to win
+1255,169,safe,This is a nice post
+1256,216,spam,Buy now!
+1257,17,harassment,You're so dumb
+1258,97,spam,Click this link to win
+1259,164,harassment,Shut up already
+1260,296,safe,Thank you for sharing
+1261,183,safe,Great work!
+1262,201,hate_speech,Disgusting group
+1263,242,spam,Click this link to win
+1264,136,spam,Visit our site for free gifts
+1265,313,safe,This is a nice post
+1266,116,spam,Buy now!
+1267,228,spam,Visit our site for free gifts
+1268,38,hate_speech,Go back to where you came from
+1269,394,spam,Buy now!
+1270,131,safe,Thank you for sharing
+1271,298,spam,Visit our site for free gifts
+1272,125,harassment,You're so dumb
+1273,97,harassment,You're so dumb
+1274,147,safe,Thank you for sharing
+1275,57,spam,Click this link to win
+1276,288,spam,Visit our site for free gifts
+1277,112,spam,Visit our site for free gifts
+1278,24,harassment,Shut up already
+1279,81,harassment,Shut up already
+1280,364,safe,Great work!
+1281,392,hate_speech,Go back to where you came from
+1282,377,hate_speech,Go back to where you came from
+1283,88,misinformation,Vaccines cause tracking
+1284,235,misinformation,Vaccines cause tracking
+1285,152,safe,Great work!
+1286,130,harassment,You're so dumb
+1287,43,harassment,Shut up already
+1288,352,spam,Visit our site for free gifts
+1289,25,harassment,Shut up already
+1290,145,safe,Thank you for sharing
+1291,194,safe,Thank you for sharing
+1292,84,safe,Great work!
+1293,377,safe,Great work!
+1294,167,violent_speech,You deserve to be attacked
+1295,188,harassment,Shut up already
+1296,11,safe,Thank you for sharing
+1297,211,spam,Visit our site for free gifts
+1298,333,violent_speech,You deserve to be attacked
+1299,171,violent_speech,You deserve to be attacked
+1300,131,spam,Visit our site for free gifts
+1301,84,hate_speech,Disgusting group
+1302,97,safe,Great work!
+1303,52,safe,This is a nice post
+1304,331,safe,This is a nice post
+1305,215,harassment,You're so dumb
+1306,125,violent_speech,Someone should beat you
+1307,19,spam,Click this link to win
+1308,254,safe,Thank you for sharing
+1309,338,safe,This is a nice post
+1310,189,safe,Great work!
+1311,259,safe,Thank you for sharing
+1312,220,safe,Thank you for sharing
+1313,37,spam,Buy now!
+1314,290,harassment,Nobody likes you
+1315,319,spam,Visit our site for free gifts
+1316,261,hate_speech,Go back to where you came from
+1317,40,safe,This is a nice post
+1318,64,harassment,Nobody likes you
+1319,294,spam,Visit our site for free gifts
+1320,344,spam,Visit our site for free gifts
+1321,340,safe,This is a nice post
+1322,356,hate_speech,Disgusting group
+1323,339,harassment,You're so dumb
+1324,248,safe,This is a nice post
+1325,329,safe,Great work!
+1326,47,spam,Buy now!
+1327,323,violent_speech,You deserve to be attacked
+1328,7,spam,Visit our site for free gifts
+1329,361,spam,Buy now!
+1330,394,safe,Thank you for sharing
+1331,293,hate_speech,Disgusting group
+1332,87,harassment,Nobody likes you
+1333,120,harassment,You're so dumb
+1334,145,hate_speech,You people are the worst
+1335,179,harassment,You're so dumb
+1336,394,harassment,You're so dumb
+1337,102,violent_speech,You deserve to be attacked
+1338,310,harassment,You're so dumb
+1339,299,hate_speech,Disgusting group
+1340,317,safe,Thank you for sharing
+1341,377,spam,Buy now!
+1342,314,misinformation,Government is hiding aliens
+1343,53,safe,Thank you for sharing
+1344,120,safe,Thank you for sharing
+1345,364,misinformation,Vaccines cause tracking
+1346,148,misinformation,Government is hiding aliens
+1347,365,safe,Great work!
+1348,8,hate_speech,Go back to where you came from
+1349,87,harassment,You're so dumb
+1350,370,spam,Click this link to win
+1351,221,harassment,Shut up already
+1352,168,safe,Great work!
+1353,63,spam,Visit our site for free gifts
+1354,58,safe,Great work!
+1355,132,hate_speech,Go back to where you came from
+1356,367,safe,Thank you for sharing
+1357,127,safe,Thank you for sharing
+1358,308,safe,Great work!
+1359,301,hate_speech,You people are the worst
+1360,376,safe,Thank you for sharing
+1361,193,harassment,Shut up already
+1362,382,hate_speech,You people are the worst
+1363,88,violent_speech,You deserve to be attacked
+1364,18,safe,Great work!
+1365,366,safe,This is a nice post
+1366,249,violent_speech,You deserve to be attacked
+1367,118,harassment,Shut up already
+1368,96,spam,Buy now!
+1369,343,spam,Click this link to win
+1370,331,violent_speech,You deserve to be attacked
+1371,257,spam,Visit our site for free gifts
+1372,159,misinformation,Breaking fake news
+1373,188,safe,This is a nice post
+1374,363,safe,Thank you for sharing
+1375,248,misinformation,Government is hiding aliens
+1376,13,spam,Click this link to win
+1377,4,misinformation,Vaccines cause tracking
+1378,133,safe,This is a nice post
+1379,395,harassment,You're so dumb
+1380,233,violent_speech,Someone should beat you
+1381,312,safe,Thank you for sharing
+1382,388,hate_speech,Go back to where you came from
+1383,377,spam,Buy now!
+1384,209,harassment,You're so dumb
+1385,178,safe,Thank you for sharing
+1386,208,hate_speech,You people are the worst
+1387,103,spam,Visit our site for free gifts
+1388,99,hate_speech,Disgusting group
+1389,23,safe,Great work!
+1390,142,safe,Great work!
+1391,360,violent_speech,I will hurt you
+1392,178,misinformation,Breaking fake news
+1393,288,hate_speech,Go back to where you came from
+1394,1,safe,Thank you for sharing
+1395,186,safe,Thank you for sharing
+1396,257,violent_speech,Someone should beat you
+1397,11,harassment,Shut up already
+1398,152,safe,Thank you for sharing
+1399,71,hate_speech,Go back to where you came from
+1400,260,safe,Great work!
+1401,85,violent_speech,Someone should beat you
+1402,98,safe,This is a nice post
+1403,83,safe,Great work!
+1404,234,safe,This is a nice post
+1405,31,misinformation,Vaccines cause tracking
+1406,150,harassment,You're so dumb
+1407,138,spam,Buy now!
+1408,222,harassment,You're so dumb
+1409,140,safe,Thank you for sharing
+1410,28,harassment,You're so dumb
+1411,210,spam,Click this link to win
+1412,87,safe,Thank you for sharing
+1413,310,safe,This is a nice post
+1414,150,safe,Great work!
+1415,92,safe,Thank you for sharing
+1416,223,harassment,Shut up already
+1417,180,violent_speech,Someone should beat you
+1418,267,hate_speech,Disgusting group
+1419,383,hate_speech,You people are the worst
+1420,305,misinformation,Breaking fake news
+1421,393,harassment,You're so dumb
+1422,201,safe,Great work!
+1423,50,safe,This is a nice post
+1424,55,hate_speech,You people are the worst
+1425,152,harassment,Shut up already
+1426,331,spam,Click this link to win
+1427,329,safe,This is a nice post
+1428,344,spam,Click this link to win
+1429,195,misinformation,Government is hiding aliens
+1430,91,spam,Click this link to win
+1431,139,safe,Great work!
+1432,136,hate_speech,Go back to where you came from
+1433,133,harassment,Nobody likes you
+1434,364,safe,Great work!
+1435,131,misinformation,Vaccines cause tracking
+1436,228,safe,Thank you for sharing
+1437,275,harassment,You're so dumb
+1438,249,safe,Thank you for sharing
+1439,286,safe,Thank you for sharing
+1440,104,safe,Thank you for sharing
+1441,334,violent_speech,I will hurt you
+1442,294,hate_speech,You people are the worst
+1443,83,safe,Thank you for sharing
+1444,263,safe,This is a nice post
+1445,326,violent_speech,I will hurt you
+1446,290,spam,Buy now!
+1447,304,safe,Thank you for sharing
+1448,267,harassment,Nobody likes you
+1449,142,misinformation,Breaking fake news
+1450,299,hate_speech,You people are the worst
+1451,72,violent_speech,I will hurt you
+1452,337,spam,Buy now!
+1453,20,safe,Thank you for sharing
+1454,308,violent_speech,You deserve to be attacked
+1455,218,spam,Click this link to win
+1456,300,harassment,Shut up already
+1457,245,spam,Buy now!
+1458,253,harassment,You're so dumb
+1459,31,spam,Click this link to win
+1460,105,harassment,You're so dumb
+1461,75,harassment,Nobody likes you
+1462,347,safe,Great work!
+1463,302,spam,Click this link to win
+1464,369,safe,This is a nice post
+1465,60,spam,Buy now!
+1466,157,harassment,Shut up already
+1467,323,safe,This is a nice post
+1468,187,misinformation,Breaking fake news
+1469,253,harassment,Nobody likes you
+1470,191,spam,Click this link to win
+1471,304,hate_speech,Disgusting group
+1472,50,safe,This is a nice post
+1473,289,harassment,You're so dumb
+1474,70,spam,Visit our site for free gifts
+1475,384,violent_speech,I will hurt you
+1476,39,safe,Thank you for sharing
+1477,132,misinformation,Vaccines cause tracking
+1478,159,violent_speech,I will hurt you
+1479,175,safe,This is a nice post
+1480,19,spam,Click this link to win
+1481,220,spam,Buy now!
+1482,68,safe,Great work!
+1483,247,spam,Buy now!
+1484,142,safe,Great work!
+1485,128,safe,This is a nice post
+1486,105,harassment,You're so dumb
+1487,39,hate_speech,Disgusting group
+1488,370,misinformation,Government is hiding aliens
+1489,70,harassment,Shut up already
+1490,307,violent_speech,Someone should beat you
+1491,14,spam,Click this link to win
+1492,356,misinformation,Breaking fake news
+1493,254,harassment,You're so dumb
+1494,133,spam,Click this link to win
+1495,284,harassment,Nobody likes you
+1496,330,violent_speech,I will hurt you
+1497,169,harassment,Shut up already
+1498,272,violent_speech,I will hurt you
+1499,4,spam,Buy now!
+1500,368,safe,Thank you for sharing
+1501,258,misinformation,Vaccines cause tracking
+1502,205,spam,Click this link to win
+1503,70,spam,Visit our site for free gifts
+1504,383,harassment,You're so dumb
+1505,171,hate_speech,You people are the worst
+1506,316,harassment,You're so dumb
+1507,303,spam,Buy now!
+1508,230,violent_speech,You deserve to be attacked
+1509,103,misinformation,Vaccines cause tracking
+1510,142,spam,Buy now!
+1511,298,safe,This is a nice post
+1512,122,harassment,You're so dumb
+1513,14,safe,This is a nice post
+1514,349,misinformation,Breaking fake news
+1515,293,hate_speech,Go back to where you came from
+1516,26,harassment,Nobody likes you
+1517,89,safe,Great work!
+1518,36,spam,Visit our site for free gifts
+1519,130,harassment,Shut up already
+1520,146,violent_speech,Someone should beat you
+1521,349,harassment,Nobody likes you
+1522,50,safe,This is a nice post
+1523,280,misinformation,Breaking fake news
+1524,114,spam,Click this link to win
+1525,376,spam,Visit our site for free gifts
+1526,213,safe,Thank you for sharing
+1527,25,violent_speech,I will hurt you
+1528,214,spam,Visit our site for free gifts
+1529,233,spam,Visit our site for free gifts
+1530,303,safe,This is a nice post
+1531,386,spam,Click this link to win
+1532,153,safe,Thank you for sharing
+1533,390,harassment,Nobody likes you
+1534,222,safe,Thank you for sharing
+1535,97,hate_speech,Go back to where you came from
+1536,105,safe,This is a nice post
+1537,97,violent_speech,I will hurt you
+1538,178,harassment,Shut up already
+1539,328,harassment,Nobody likes you
+1540,293,misinformation,Vaccines cause tracking
+1541,190,violent_speech,I will hurt you
+1542,264,spam,Click this link to win
+1543,361,safe,Great work!
+1544,58,harassment,Nobody likes you
+1545,259,safe,Great work!
+1546,366,hate_speech,You people are the worst
+1547,353,hate_speech,Go back to where you came from
+1548,258,harassment,Shut up already
+1549,68,spam,Click this link to win
+1550,208,violent_speech,You deserve to be attacked
+1551,309,harassment,You're so dumb
+1552,349,safe,Great work!
+1553,83,harassment,You're so dumb
+1554,220,spam,Click this link to win
+1555,119,spam,Buy now!
+1556,3,violent_speech,Someone should beat you
+1557,30,violent_speech,Someone should beat you
+1558,37,safe,Great work!
+1559,130,safe,Great work!
+1560,221,safe,This is a nice post
+1561,389,spam,Buy now!
+1562,44,harassment,You're so dumb
+1563,153,harassment,Shut up already
+1564,119,spam,Visit our site for free gifts
+1565,220,safe,Great work!
+1566,38,spam,Visit our site for free gifts
+1567,68,spam,Buy now!
+1568,304,safe,Thank you for sharing
+1569,73,spam,Click this link to win
+1570,6,safe,This is a nice post
+1571,237,safe,Great work!
+1572,222,spam,Visit our site for free gifts
+1573,82,safe,This is a nice post
+1574,253,misinformation,Breaking fake news
+1575,10,spam,Click this link to win
+1576,346,misinformation,Breaking fake news
+1577,77,safe,Thank you for sharing
+1578,83,safe,Great work!
+1579,87,safe,Great work!
+1580,45,harassment,You're so dumb
+1581,293,safe,Thank you for sharing
+1582,124,misinformation,Government is hiding aliens
+1583,201,violent_speech,You deserve to be attacked
+1584,309,hate_speech,Go back to where you came from
+1585,142,safe,Thank you for sharing
+1586,71,hate_speech,Disgusting group
+1587,259,harassment,Shut up already
+1588,81,violent_speech,Someone should beat you
+1589,229,safe,This is a nice post
+1590,201,harassment,Shut up already
+1591,270,safe,Great work!
+1592,169,misinformation,Government is hiding aliens
+1593,247,safe,Thank you for sharing
+1594,10,spam,Buy now!
+1595,92,spam,Buy now!
+1596,311,safe,Great work!
+1597,44,spam,Click this link to win
+1598,236,spam,Buy now!
+1599,83,violent_speech,Someone should beat you
+1600,163,safe,This is a nice post
+1601,79,harassment,You're so dumb
+1602,27,safe,This is a nice post
+1603,346,hate_speech,Go back to where you came from
+1604,261,spam,Buy now!
+1605,281,misinformation,Government is hiding aliens
+1606,295,hate_speech,Disgusting group
+1607,155,harassment,Shut up already
+1608,362,spam,Click this link to win
+1609,163,harassment,Nobody likes you
+1610,247,harassment,Shut up already
+1611,99,safe,Great work!
+1612,240,misinformation,Vaccines cause tracking
+1613,121,safe,Great work!
+1614,170,misinformation,Breaking fake news
+1615,296,safe,Great work!
+1616,139,violent_speech,You deserve to be attacked
+1617,16,misinformation,Vaccines cause tracking
+1618,275,misinformation,Breaking fake news
+1619,358,misinformation,Breaking fake news
+1620,155,harassment,You're so dumb
+1621,217,safe,Thank you for sharing
+1622,388,harassment,Shut up already
+1623,8,spam,Click this link to win
+1624,233,harassment,Nobody likes you
+1625,106,safe,Great work!
+1626,125,harassment,Nobody likes you
+1627,2,spam,Buy now!
+1628,248,hate_speech,You people are the worst
+1629,244,hate_speech,You people are the worst
+1630,179,violent_speech,You deserve to be attacked
+1631,322,misinformation,Vaccines cause tracking
+1632,277,safe,Great work!
+1633,279,harassment,You're so dumb
+1634,242,safe,This is a nice post
+1635,55,harassment,You're so dumb
+1636,101,spam,Visit our site for free gifts
+1637,252,spam,Visit our site for free gifts
+1638,183,misinformation,Breaking fake news
+1639,179,safe,Great work!
+1640,125,spam,Visit our site for free gifts
+1641,2,misinformation,Breaking fake news
+1642,284,safe,Thank you for sharing
+1643,225,harassment,You're so dumb
+1644,298,harassment,Nobody likes you
+1645,388,misinformation,Breaking fake news
+1646,218,spam,Buy now!
+1647,342,spam,Buy now!
+1648,342,hate_speech,Go back to where you came from
+1649,329,hate_speech,Go back to where you came from
+1650,101,spam,Visit our site for free gifts
+1651,42,safe,Thank you for sharing
+1652,243,spam,Buy now!
+1653,387,harassment,Nobody likes you
+1654,132,harassment,You're so dumb
+1655,364,spam,Click this link to win
+1656,247,safe,This is a nice post
+1657,34,safe,Thank you for sharing
+1658,129,misinformation,Breaking fake news
+1659,211,spam,Click this link to win
+1660,379,misinformation,Government is hiding aliens
+1661,26,violent_speech,You deserve to be attacked
+1662,351,misinformation,Vaccines cause tracking
+1663,112,violent_speech,Someone should beat you
+1664,176,safe,Great work!
+1665,124,hate_speech,You people are the worst
+1666,167,hate_speech,You people are the worst
+1667,52,spam,Visit our site for free gifts
+1668,359,spam,Buy now!
+1669,166,harassment,Shut up already
+1670,9,safe,Great work!
+1671,304,harassment,Shut up already
+1672,7,spam,Buy now!
+1673,30,hate_speech,Go back to where you came from
+1674,132,safe,Great work!
+1675,136,harassment,Shut up already
+1676,45,hate_speech,You people are the worst
+1677,283,harassment,Shut up already
+1678,239,harassment,Shut up already
+1679,240,harassment,You're so dumb
+1680,381,safe,This is a nice post
+1681,3,spam,Click this link to win
+1682,88,hate_speech,You people are the worst
+1683,24,safe,Great work!
+1684,377,spam,Buy now!
+1685,185,spam,Click this link to win
+1686,292,misinformation,Vaccines cause tracking
+1687,393,safe,Thank you for sharing
+1688,95,violent_speech,I will hurt you
+1689,329,spam,Click this link to win
+1690,213,safe,This is a nice post
+1691,71,harassment,You're so dumb
+1692,366,spam,Buy now!
+1693,321,safe,Great work!
+1694,29,spam,Visit our site for free gifts
+1695,162,safe,This is a nice post
+1696,303,spam,Visit our site for free gifts
+1697,304,harassment,Nobody likes you
+1698,306,hate_speech,You people are the worst
+1699,107,spam,Buy now!
+1700,129,violent_speech,You deserve to be attacked
+1701,342,harassment,You're so dumb
+1702,188,safe,This is a nice post
+1703,67,spam,Buy now!
+1704,103,harassment,Shut up already
+1705,171,safe,This is a nice post
+1706,149,spam,Buy now!
+1707,139,harassment,Shut up already
+1708,123,misinformation,Breaking fake news
+1709,26,violent_speech,You deserve to be attacked
+1710,386,violent_speech,Someone should beat you
+1711,4,violent_speech,You deserve to be attacked
+1712,29,spam,Visit our site for free gifts
+1713,371,hate_speech,Disgusting group
+1714,366,safe,Thank you for sharing
+1715,194,hate_speech,You people are the worst
+1716,287,spam,Click this link to win
+1717,244,spam,Visit our site for free gifts
+1718,114,spam,Click this link to win
+1719,382,safe,Great work!
+1720,87,hate_speech,Disgusting group
+1721,271,safe,Thank you for sharing
+1722,143,spam,Click this link to win
+1723,334,spam,Buy now!
+1724,328,spam,Click this link to win
+1725,87,hate_speech,You people are the worst
+1726,13,spam,Click this link to win
+1727,341,harassment,Shut up already
+1728,77,spam,Buy now!
+1729,70,safe,This is a nice post
+1730,307,spam,Visit our site for free gifts
+1731,342,hate_speech,Disgusting group
+1732,311,harassment,Nobody likes you
+1733,253,misinformation,Breaking fake news
+1734,362,spam,Visit our site for free gifts
+1735,383,spam,Click this link to win
+1736,60,harassment,Nobody likes you
+1737,134,spam,Visit our site for free gifts
+1738,204,safe,Thank you for sharing
+1739,43,safe,Thank you for sharing
+1740,253,harassment,Shut up already
+1741,314,hate_speech,You people are the worst
+1742,324,safe,Thank you for sharing
+1743,45,misinformation,Government is hiding aliens
+1744,345,safe,Great work!
+1745,108,harassment,Nobody likes you
+1746,97,safe,Thank you for sharing
+1747,231,safe,Thank you for sharing
+1748,50,safe,This is a nice post
+1749,174,safe,Great work!
+1750,98,safe,This is a nice post
+1751,288,violent_speech,You deserve to be attacked
+1752,89,safe,Great work!
+1753,128,misinformation,Vaccines cause tracking
+1754,114,violent_speech,I will hurt you
+1755,216,harassment,You're so dumb
+1756,35,safe,This is a nice post
+1757,89,spam,Click this link to win
+1758,361,safe,Great work!
+1759,195,harassment,Shut up already
+1760,25,harassment,You're so dumb
+1761,381,hate_speech,Disgusting group
+1762,111,safe,Thank you for sharing
+1763,172,violent_speech,You deserve to be attacked
+1764,221,misinformation,Government is hiding aliens
+1765,389,harassment,Shut up already
+1766,99,hate_speech,Disgusting group
+1767,181,harassment,You're so dumb
+1768,326,hate_speech,Disgusting group
+1769,259,safe,Great work!
+1770,136,harassment,Shut up already
+1771,136,safe,Great work!
+1772,379,hate_speech,Disgusting group
+1773,92,safe,Great work!
+1774,285,spam,Visit our site for free gifts
+1775,6,hate_speech,Disgusting group
+1776,289,safe,Thank you for sharing
+1777,209,spam,Buy now!
+1778,180,safe,Great work!
+1779,53,violent_speech,I will hurt you
+1780,54,harassment,Nobody likes you
+1781,203,hate_speech,Disgusting group
+1782,386,spam,Click this link to win
+1783,253,misinformation,Government is hiding aliens
+1784,147,hate_speech,Go back to where you came from
+1785,221,safe,This is a nice post
+1786,296,harassment,Nobody likes you
+1787,71,safe,Great work!
+1788,150,misinformation,Vaccines cause tracking
+1789,315,harassment,You're so dumb
+1790,202,harassment,Shut up already
+1791,379,safe,Thank you for sharing
+1792,105,safe,Great work!
+1793,66,hate_speech,You people are the worst
+1794,290,safe,Great work!
+1795,41,safe,Thank you for sharing
+1796,52,misinformation,Breaking fake news
+1797,367,spam,Visit our site for free gifts
+1798,390,spam,Buy now!
+1799,115,spam,Buy now!
+1800,271,harassment,You're so dumb
+1801,279,misinformation,Breaking fake news
+1802,350,spam,Click this link to win
+1803,93,spam,Visit our site for free gifts
+1804,90,violent_speech,Someone should beat you
+1805,198,spam,Buy now!
+1806,191,safe,Thank you for sharing
+1807,391,violent_speech,You deserve to be attacked
+1808,122,spam,Click this link to win
+1809,317,hate_speech,Go back to where you came from
+1810,350,misinformation,Vaccines cause tracking
+1811,289,safe,Thank you for sharing
+1812,247,hate_speech,Go back to where you came from
+1813,184,spam,Buy now!
+1814,269,safe,Thank you for sharing
+1815,177,safe,Great work!
+1816,86,misinformation,Breaking fake news
+1817,193,spam,Click this link to win
+1818,230,spam,Buy now!
+1819,128,spam,Buy now!
+1820,254,harassment,Nobody likes you
+1821,254,harassment,Shut up already
+1822,220,spam,Click this link to win
+1823,167,violent_speech,Someone should beat you
+1824,217,safe,Great work!
+1825,337,spam,Visit our site for free gifts
+1826,132,safe,Thank you for sharing
+1827,220,safe,Great work!
+1828,261,spam,Visit our site for free gifts
+1829,256,misinformation,Government is hiding aliens
+1830,278,violent_speech,I will hurt you
+1831,349,hate_speech,Disgusting group
+1832,225,violent_speech,I will hurt you
+1833,204,safe,Thank you for sharing
+1834,355,harassment,Nobody likes you
+1835,197,hate_speech,You people are the worst
+1836,159,safe,Great work!
+1837,87,safe,Great work!
+1838,79,harassment,Shut up already
+1839,80,safe,Great work!
+1840,80,violent_speech,I will hurt you
+1841,315,spam,Click this link to win
+1842,333,safe,Thank you for sharing
+1843,308,spam,Click this link to win
+1844,390,safe,This is a nice post
+1845,216,spam,Click this link to win
+1846,234,harassment,Nobody likes you
+1847,267,violent_speech,You deserve to be attacked
+1848,101,safe,Thank you for sharing
+1849,242,hate_speech,Go back to where you came from
+1850,109,harassment,You're so dumb
+1851,69,misinformation,Breaking fake news
+1852,55,harassment,Nobody likes you
+1853,203,safe,Great work!
+1854,314,misinformation,Government is hiding aliens
+1855,219,safe,Great work!
+1856,62,spam,Visit our site for free gifts
+1857,247,hate_speech,Disgusting group
+1858,146,spam,Buy now!
+1859,306,harassment,Shut up already
+1860,337,spam,Buy now!
+1861,245,misinformation,Vaccines cause tracking
+1862,102,harassment,Nobody likes you
+1863,63,safe,Great work!
+1864,72,misinformation,Government is hiding aliens
+1865,329,harassment,Nobody likes you
+1866,303,spam,Visit our site for free gifts
+1867,51,harassment,Shut up already
+1868,154,harassment,Shut up already
+1869,268,hate_speech,You people are the worst
+1870,30,hate_speech,Disgusting group
+1871,331,safe,Thank you for sharing
+1872,305,safe,Thank you for sharing
+1873,86,safe,Thank you for sharing
+1874,365,harassment,Shut up already
+1875,209,harassment,You're so dumb
+1876,95,spam,Click this link to win
+1877,253,harassment,You're so dumb
+1878,394,hate_speech,You people are the worst
+1879,289,spam,Visit our site for free gifts
+1880,315,safe,Thank you for sharing
+1881,172,safe,Great work!
+1882,304,harassment,Nobody likes you
+1883,221,safe,Great work!
+1884,171,safe,Great work!
+1885,268,hate_speech,Go back to where you came from
+1886,164,safe,Thank you for sharing
+1887,137,safe,Great work!
+1888,15,safe,Great work!
+1889,212,safe,This is a nice post
+1890,313,violent_speech,Someone should beat you
+1891,279,violent_speech,You deserve to be attacked
+1892,252,safe,This is a nice post
+1893,46,harassment,You're so dumb
+1894,329,spam,Click this link to win
+1895,353,harassment,Nobody likes you
+1896,94,violent_speech,You deserve to be attacked
+1897,202,violent_speech,You deserve to be attacked
+1898,233,spam,Visit our site for free gifts
+1899,193,safe,This is a nice post
+1900,326,safe,This is a nice post
+1901,82,harassment,You're so dumb
+1902,299,safe,Thank you for sharing
+1903,281,violent_speech,Someone should beat you
+1904,21,hate_speech,Go back to where you came from
+1905,251,harassment,You're so dumb
+1906,150,safe,This is a nice post
+1907,42,harassment,Shut up already
+1908,134,safe,Great work!
+1909,52,safe,Great work!
+1910,300,spam,Click this link to win
+1911,197,hate_speech,Go back to where you came from
+1912,195,spam,Visit our site for free gifts
+1913,139,spam,Buy now!
+1914,17,safe,Thank you for sharing
+1915,95,hate_speech,Go back to where you came from
+1916,21,violent_speech,I will hurt you
+1917,315,hate_speech,You people are the worst
+1918,345,spam,Buy now!
+1919,204,misinformation,Vaccines cause tracking
+1920,351,spam,Visit our site for free gifts
+1921,73,misinformation,Breaking fake news
+1922,191,misinformation,Vaccines cause tracking
+1923,246,safe,This is a nice post
+1924,349,harassment,You're so dumb
+1925,121,misinformation,Breaking fake news
+1926,179,safe,Great work!
+1927,10,safe,Great work!
+1928,124,misinformation,Government is hiding aliens
+1929,133,safe,This is a nice post
+1930,50,spam,Buy now!
+1931,366,spam,Buy now!
+1932,150,hate_speech,Disgusting group
+1933,151,safe,This is a nice post
+1934,142,violent_speech,Someone should beat you
+1935,112,safe,Thank you for sharing
+1936,26,harassment,Nobody likes you
+1937,235,safe,This is a nice post
+1938,164,violent_speech,Someone should beat you
+1939,398,spam,Visit our site for free gifts
+1940,367,misinformation,Vaccines cause tracking
+1941,335,spam,Buy now!
+1942,184,spam,Buy now!
+1943,364,hate_speech,You people are the worst
+1944,67,spam,Visit our site for free gifts
+1945,169,violent_speech,You deserve to be attacked
+1946,70,spam,Visit our site for free gifts
+1947,205,hate_speech,Disgusting group
+1948,313,harassment,You're so dumb
+1949,137,hate_speech,Go back to where you came from
+1950,280,misinformation,Breaking fake news
+1951,105,safe,Thank you for sharing
+1952,157,harassment,Nobody likes you
+1953,206,safe,Thank you for sharing
+1954,192,spam,Buy now!
+1955,119,harassment,Shut up already
+1956,22,safe,Great work!
+1957,66,safe,Great work!
+1958,324,spam,Buy now!
+1959,253,hate_speech,You people are the worst
+1960,84,hate_speech,Go back to where you came from
+1961,389,safe,This is a nice post
+1962,95,safe,This is a nice post
+1963,291,safe,This is a nice post
+1964,54,violent_speech,Someone should beat you
+1965,187,violent_speech,You deserve to be attacked
+1966,30,harassment,You're so dumb
+1967,205,safe,Great work!
+1968,306,harassment,Nobody likes you
+1969,346,safe,Thank you for sharing
+1970,201,misinformation,Government is hiding aliens
+1971,213,safe,Thank you for sharing
+1972,166,harassment,You're so dumb
+1973,311,spam,Visit our site for free gifts
+1974,55,spam,Click this link to win
+1975,384,safe,Great work!
+1976,379,hate_speech,You people are the worst
+1977,343,violent_speech,Someone should beat you
+1978,133,safe,Great work!
+1979,257,hate_speech,Disgusting group
+1980,355,safe,Great work!
+1981,34,safe,Great work!
+1982,288,safe,Great work!
+1983,116,safe,Thank you for sharing
+1984,289,safe,Great work!
+1985,279,hate_speech,Go back to where you came from
+1986,398,harassment,You're so dumb
+1987,214,spam,Visit our site for free gifts
+1988,135,spam,Click this link to win
+1989,2,safe,Thank you for sharing
+1990,390,spam,Visit our site for free gifts
+1991,103,hate_speech,You people are the worst
+1992,30,safe,This is a nice post
+1993,150,spam,Click this link to win
+1994,336,safe,Thank you for sharing
+1995,196,safe,This is a nice post
+1996,102,misinformation,Government is hiding aliens
+1997,226,misinformation,Breaking fake news
+1998,185,safe,This is a nice post
+1999,172,spam,Buy now!
+2000,114,safe,This is a nice post
